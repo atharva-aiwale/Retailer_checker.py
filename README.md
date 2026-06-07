@@ -8,4 +8,4 @@ Key requirements for the system to run this code:
 Problem Faced :
 The identity center features a login page, but when the code runs, it gets stuck on this page. I modified the code to include the login ID and password; however, it still prompts for a verification code when the login button is clicked. This process took a considerable amount of time, and Selenium returned an error. To address this, I implemented a change that causes the code to pause for 120 seconds when the login page appears, allowing the user to manually log in to the identity center during this time.
 
- ![Image Alt]([image_url](https://github.com/atharva-aiwale/Retailer_checker.py/blob/main/Retailer_checker.JPG?raw=true))
+ ![Image Alt]((https://github.com/atharva-aiwale/Retailer_checker.py/blob/92aaebeec96227fff1238f8e6bf689068ad7da46/Retailer_checker.JPG))
