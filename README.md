@@ -1,4 +1,4 @@
-# Retailer_checker.py
+# Retailer_checker
 This project involves process automation. We need to enter a user ID and access the retailer list in the Identity Center on Chrome. From there, it will check if the user has access to a specific retailer and provide an output indicating "yes" or "no." This approach helps reduce the workflow time for the process.
 
 Key requirements for the system to run this code:
